@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing KingOfficer Bots"];
+const statusMessages = ["Sigma and top donater"];
 
 
 let currentIndex = 0;
